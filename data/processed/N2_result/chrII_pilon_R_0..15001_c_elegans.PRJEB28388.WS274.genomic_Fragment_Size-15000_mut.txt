@@ -1,0 +1,26 @@
+start	end	type
+1	15001	Range
+1	1785	Long Insertion
+1792	12709	Long Insertion
+12938	12939	Deletion
+13093	13094	Insertion
+13211	13212	Insertion
+13269	13270	Insertion
+13558	13571	Long Insertion
+14022	14023	Substitution
+14037	14038	Deletion
+14040	14041	Deletion
+14041	14042	Deletion
+14058	14059	Insertion
+14060	14061	Insertion
+14078	14079	Insertion
+14499	14500	Deletion
+14756	14757	Insertion
+14831	14832	Deletion
+14834	14835	Deletion
+14835	14836	Deletion
+14836	14837	Deletion
+14837	14838	Deletion
+14911	14912	Insertion
+14981	14982	Insertion
+15002	15003	Deletion

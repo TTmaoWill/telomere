@@ -1,0 +1,44 @@
+start	end	type
+1	15001	Range
+1	3279	Long Insertion
+3286	3870	Long Insertion
+3877	4808	Long Insertion
+4815	6509	Long Insertion
+6516	10380	Long Insertion
+10387	11789	Long Insertion
+11949	11950	Insertion
+11965	11966	Insertion
+11967	11968	Insertion
+11981	11982	Insertion
+11982	11983	Insertion
+12005	12006	Deletion
+12006	12007	Deletion
+12008	12009	Deletion
+12033	12034	Deletion
+12032	12033	Deletion
+12051	12052	Deletion
+12212	12213	Insertion
+12473	12474	Insertion
+12486	12487	Insertion
+12487	12488	Insertion
+12500	12501	Insertion
+12501	12502	Insertion
+12518	12519	Deletion
+12521	12522	Deletion
+12524	12525	Deletion
+12539	12540	Deletion
+12542	12543	Deletion
+12567	12568	Deletion
+12812	12813	Insertion
+12994	12995	Insertion
+13007	13008	Insertion
+13008	13009	Insertion
+13023	13024	Deletion
+13024	13025	Deletion
+13026	13027	Deletion
+13035	13036	Deletion
+13038	13039	Deletion
+13063	13064	Deletion
+13188	13189	Insertion
+13855	13856	Insertion
+14987	15001	Long Insertion

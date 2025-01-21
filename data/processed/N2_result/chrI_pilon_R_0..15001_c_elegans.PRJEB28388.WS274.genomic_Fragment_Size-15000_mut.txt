@@ -1,0 +1,7 @@
+start	end	type
+1	15001	Range
+1	4723	Long Insertion
+4730	5653	Long Insertion
+5660	11920	Long Insertion
+11927	12850	Long Insertion
+12857	15001	Long Insertion
